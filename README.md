@@ -21,7 +21,8 @@
 
 - 📫 How to reach me **aditya.ce21@sot.pdpu.ac.in**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1J1_132RlFxcCbtitQlIW8LpowDgFa96H/view?usp=drivesdk](https://drive.google.com/file/d/1J1_132RlFxcCbtitQlIW8LpowDgFa96H/view?usp=drivesdk)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1bCbN2j8b6Si0By3FCyLOMlFJkDr4coJP/view?usp=sharing]
+(https://drive.google.com/file/d/1bCbN2j8b6Si0By3FCyLOMlFJkDr4coJP/view?usp=sharing)
 
 - ⚡ Fun fact **I turn coffee ☕ into code.**
 
