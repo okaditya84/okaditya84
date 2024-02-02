@@ -7,21 +7,17 @@
 
 <p align="left"> <a href="https://twitter.com/okaditya84" target="blank"><img src="https://img.shields.io/twitter/follow/okaditya84?logo=twitter&style=for-the-badge" alt="okaditya84" /></a> </p>
 
-- 🔭 I’m currently working on [Profanity Checker](https://github.com/okaditya84/Profanity-Checker)
+- 🔭 I’m currently working on [Hinglish sentiment analyser]([https://github.com/okaditya84/Profanity-Checker](https://github.com/okaditya84/Hinglish-Sentiment-Research-Website))
 
 - 🌱 I’m currently learning **Django/Flask frameworks, NLP and other concepts of machine learning**
 
-- 👯 I’m looking to collaborate on **Court Judgement Prediction System**
+- 👨‍💻 Explore my projects here: [Repos](https://github.com/okaditya84?tab=repositories)
 
-- 👨‍💻 Explore my projects here: [https://github.com/okaditya84?tab=repositories](https://github.com/okaditya84?tab=repositories)
+- 📝 I regularly write articles on [Medium](https://medium.com/@aditya.ce21)
 
-- 📝 I regularly write articles on [https://www.blogger.com/blog/posts/6939188004862424329](https://www.blogger.com/blog/posts/6939188004862424329)
-
-- 💬 Ask me about **Python (Intermediate), DSA, Open Source**
+- 💬 Ask me about **Machine Learning, Gen AI, Backend development with Python and DSA.**
 
 - 📫 How to reach me **aditya.ce21@sot.pdpu.ac.in**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1bCbN2j8b6Si0By3FCyLOMlFJkDr4coJP/view?usp=sharing](https://drive.google.com/file/d/1bCbN2j8b6Si0By3FCyLOMlFJkDr4coJP/view?usp=sharing)
 
 - ⚡ Fun fact **I turn coffee ☕ into code.**
 
