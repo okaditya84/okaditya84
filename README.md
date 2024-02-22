@@ -73,8 +73,8 @@
     <td width="50%">
       <h3 align="center"><strong>Lᴀᴛᴇsᴛ Pʀᴏᴊᴇᴄᴛ</strong></h3>
       <p align="center">
-        <a href="https://github.com/Kiran1689/Awesome-Dev-Portfolios">
-          <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=Kiran1689&repo=Awesome-Dev-Portfolios&theme=nightowl&show_owner=true" alt="Awesome-Dev-Portfolios" />
+        <a href="https://github.com/okaditya84/Conference-Summarizer">
+          <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=okaditya84&repo=Awesome-Dev-Portfolios&theme=nightowl&show_owner=true" alt="Awesome-Dev-Portfolios" />
         </a>
       </p>
     </td>
@@ -204,17 +204,17 @@
 
 <h2 align="center">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝 </h2>
 <div align="center">
- <a href="[https://www.linkedin.com/in/kiran-a-n/](https://www.linkedin.com/in/adityajethani/)" target="_blank">
+ <a href="[https://www.linkedin.com/in/adityajethani/](https://www.linkedin.com/in/adityajethani/)" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
   
 <a href="mailto:adityajethani11@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt=kirannaragund197@gmail.com mail style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt=adityajethani11@gmail.com mail style="margin-bottom: 5px;" />
 </a>
 
 
 <a href="https://twitter.com/okaditya84" target="_blank">
-<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="kiran__a__n Twitter" style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="okaditya84 Twitter" style="margin-bottom: 5px;" />
 </a>
 </div>
 <br/>
