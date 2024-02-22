@@ -33,7 +33,7 @@
 <!--Languages and Tools Section-->       
 <h2 align="center">Lᴀɴɢᴜᴀɢᴇs ᴀɴᴅ Tᴏᴏʟs</h2> 
 <p align="center">
-<img width="500px"  src="https://skillicons.dev/icons?i=py,c,cpp,html,css,js,react,nodejs,express,django,flask,fastapi,opencv,pytorch,sklearnselenium,tensorflow,mysql,mongodb,git,github,vscode,docker,gcp,postman,linux,anaconda,md&perline=10"  />
+<img width="500px"  src="https://skillicons.dev/icons?i=py,c,cpp,html,css,js,react,nodejs,express,django,flask,fastapi,opencv,pytorch,sklearn,selenium,tensorflow,mysql,mongodb,git,github,vscode,docker,gcp,postman,linux,anaconda,md&perline=10"  />
 </p>
 <br />
 
