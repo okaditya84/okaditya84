@@ -73,7 +73,7 @@
     <td width="50%">
       <h3 align="center"><strong>Lᴀᴛᴇsᴛ Pʀᴏᴊᴇᴄᴛ</strong></h3>
       <p align="center">
-        <a href="[https://github.com/okaditya84/Conference-Summarizer/](https://github.com/okaditya84/Conference-Summarizer/)">
+        <a href="[https://github.com/okaditya84/Time-Table-Generator/](https://github.com/okaditya84/Time-Table-Generator)">
           <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=okaditya84&repo=Awesome-Dev-Portfolios&theme=nightowl&show_owner=true" alt="Awesome-Dev-Portfolios" />
         </a>
       </p>
