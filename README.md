@@ -17,7 +17,7 @@
 - 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.
 - 💁‍♂️ Trusted Chairperson at [ACM-PDEU]([https://dev.to](https://www.linkedin.com/company/acm-pdeu-student-chapter/mycompany/?viewAsMember=true))
 - 🏙 Tech Lead at [Geeksforgeek-PDEU](https://www.linkedin.com/company/geeksforgeekspdeu/mycompany/).
-- ✍ I write technical blogs, You can visit my blog site at [Medium.com](https://medium.com/@aditya.ce21).
+- ✍ I write technical blogs, You can visit my blog site at [Medium.com](https://medium.com/@adityajethani).
 - ❤ Contributing to Open Source.
 - 💻 Visit my [Portfolio](https://adityajethani.vercel.app) for more details about me.
 <!--End Intro-->
